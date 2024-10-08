@@ -1,10 +1,6 @@
 Expense Tracker Application
 A full-stack Expense Tracker application that allows users to add, view, manage, and analyze their expenses. The frontend is built using React, while the backend uses Node.js, Express, and MongoDB for handling data and user authentication. The application is fully deployed, offering a smooth and user-friendly experience for managing personal finances.
 
-Live Demo
-Frontend: [https://swiftrut-task-7.vercel.app](https://swiftrut-task-8.vercel.app/)
-Backend: [https://swiftrut-task-7.onrender.com](https://swiftrut-task-8.onrender.com)
-
 Running the Application
 Frontend
 Clone the repository:
